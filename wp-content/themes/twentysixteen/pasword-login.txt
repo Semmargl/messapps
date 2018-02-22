@@ -1,0 +1,3 @@
+messapps
+login: messappsAdmin
+password: l5Gg(amQh4uRw$AQzA
